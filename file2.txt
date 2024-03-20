@@ -1,0 +1,9 @@
+What is GitHub?
+
+GitHub, on the other hand, is a web-based platform built on top of Git.
+
+It provides hosting for Git repositories and adds additional features such as bug tracking, task management, and wikis.
+
+GitHub allows users to store their Git repositories in the cloud, making it easy to collaborate with others, contribute to open-source projects, and share code with the wider community. 
+
+It's widely used by developers and organizations for managing and sharing code, tracking issues, and collaborating on projects.
